@@ -10,4 +10,4 @@ You're only as good as your GitHubs.  Here's a Table of Contents.
 
 - [My emacs configuration files](https://github.com/billwear/emacs.d): put up or shut up, I guess.
 
-Always more stuff being added. Good luck, Jim.
+Always more stuff being added. 
