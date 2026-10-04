@@ -16,7 +16,11 @@ I have been active on the Internet since 1986 -- under the handles "stormrider" 
 
 I have had an active Website since 1994, although it has changed domain names and contents several times since then.
 
-Recently, I decided that I'm only as good as my GitHubs, so I'm starting to bring all of my life artifacts over here.  Bear with me, it can be a slow process.
+Recently, I decided that I'm only as good as my GitHubs, so I'm starting to bring all of my life artifacts over here.  Here is brief TOC:
+
+[CLI Improved](https://github.com/billwear/cli-improved) ~ [My emacs configuration files](https://github.com/billwear/emacs.d) ~ 
+
+Bear with me, it can be a slow process.
 
 Please enjoy my site.
 
