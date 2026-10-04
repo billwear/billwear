@@ -1,5 +1,6 @@
-## Hi there 👋
+## Bill Wear's GitHub Repositories
 
+I'm Bill Wear, and I've been using UNIX since 1974, Emacs since sometime in the 90's, and Org-Mode since 200?. 
 <!--
 **billwear/billwear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
